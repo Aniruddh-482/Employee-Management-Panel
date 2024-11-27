@@ -1,2 +1,6 @@
-# Employee-Management-Panel
-A MERN-based Employee Management Panel with features like employee creation, editing, listing, and validations using React, Node.js, Express, and MongoDB.
+# Employee Management Panel
+## Project Overview
+This project is a full-stack application with a React frontend and a Node.js backend.
+### Folder Structure:
+- **backend/**: Contains the backend code (Node.js).
+- **frontend/**: Contains the frontend code (React).
